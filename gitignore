@@ -1,0 +1,6 @@
+'EOF'
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+EOF
