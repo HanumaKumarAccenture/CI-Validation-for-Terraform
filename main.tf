@@ -3,5 +3,6 @@ resource "aws_s3_bucket" "project7_bucket" {
 
   tags = {
     Name = "Project7Bucket"
+    Environment = "Dev"
   }
 }
